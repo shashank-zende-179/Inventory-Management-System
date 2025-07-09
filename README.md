@@ -15,11 +15,12 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 8. `billing.py`
 
 ### 1. login.py
--This script is the login page of Inventory Management System containing:-
--Employee_id
--Password
--login Button
--Forget password option
+- This script is the login page of Inventory Management System containing:-
+- Employee_id
+- Password
+- login Button
+- Forget password option
+
 ![alt text](img.png)
 
 ### 2. dashboard.py
